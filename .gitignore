@@ -1,0 +1,13 @@
+node_modules
+dist
+.web-builder
+.vercel
+.verify
+*.tsbuildinfo
+.env*
+!.env.example
+server/.env*
+!server/.env.example
+server/data.db*
+__pycache__/
+*.py[cod]

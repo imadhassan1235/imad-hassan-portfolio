@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "website",
+  "slug": "personal-brand-website-template-entrepreneur-author-keynote-spea",
+  "title": "Personal Brand Website Template - Entrepreneur, Author & Keynote Speaker",
+  "summary": "Premium personal brand website for an entrepreneur, author and keynote speaker (Elena Voss) in a warm ivory and blush theme with elegant serif headlines, terracotta accents and a soft golden glow. Features a split hero with portrait and Book a keynote / Meet Elena buttons, Featured In press logos, animated stats (12M+ audience, 180+ keynotes, 3 books, $40M revenue), biography, a milestones timeline, three bestselling books, latest videos, client testimonials, newsletter articles, upcoming events and a newsletter signup. Nav covers Speaking, Content, Podcast, Newsletter, Courses and Media Kit. Fully phone responsive.",
+  "category": "Portfolio",
+  "prompt": "Create a premium personal brand website for an entrepreneur, bestselling author and keynote speaker in a warm ivory and soft blush theme with elegant serif headlines, terracotta accent text and soft golden gradient glows. Top nav with the name 'Elena Voss', links About, Speaking, Content, Podcast, Newsletter, Courses, Media Kit, Contact and a 'Book Elena' pill button. Hero: a small label 'Entrepreneur - Author - Keynote Speaker', the headline 'Building brands people can't look away from.', a short bio, Book a keynote and Meet Elena buttons, and a large rounded portrait on the right. Add a Featured In logo strip (Forbes, Fast Company, Inc., Bloomberg, TED), an animated stats band (12M+ audience, 180+ keynotes, 3 books, $40M revenue), a biography section, a decade of milestones timeline, a books section with three bestsellers, a Watch the latest video section, client testimonials, three newsletter article cards, a Catch Elena live events list and a weekly newsletter signup. Add fade-in scroll animations, make every button work and the site fully phone responsive.",
+  "brief": "site",
+  "min_plan": "free",
+  "thumbnail": "preview/slide-01.webp",
+  "demo_url": "https://creator-portfolio.site.orvisai.com/"
+}
